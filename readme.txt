@@ -6,7 +6,7 @@ How to run the Recipe Treasury System Using PHP and MySQL
 
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
 
-4. Open PHPMyAdmin (for direct link : https://in-info-web4.informatics.iupui.edu/phpmyadmin/) (for local : http://localhost/phpmyadmin/)
+4. Open PHPMyAdmin 
 
 5. Create a database with the name rtsdb (for local: and change dbconnection.php and also RTS/user/ML_rcmnd.py file con variable)
 
@@ -14,7 +14,7 @@ How to run the Recipe Treasury System Using PHP and MySQL
 
 7. Import rtsdb.sql file(given inside the zip package in the SQL file folder)
 
-8. Run the script https://in-info-web4.informatics.iupui.edu/~tyerama/rts
+8. Run the script 
 
 Credential for Admin panel :
 
